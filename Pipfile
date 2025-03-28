@@ -9,6 +9,9 @@ matplotlib = "*"
 pandas = "*"
 requests = "*"
 scikit-learn = "*"
+seaborn = "*"
+beautifulsoup4 = "*"
+lxml = "*"
 
 [dev-packages]
 ipykernel = "*"
