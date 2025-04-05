@@ -12,6 +12,7 @@ scikit-learn = "*"
 seaborn = "*"
 beautifulsoup4 = "*"
 lxml = "*"
+statsmodels = "*"
 
 [dev-packages]
 ipykernel = "*"
