@@ -13,6 +13,7 @@ seaborn = "*"
 beautifulsoup4 = "*"
 lxml = "*"
 statsmodels = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"
