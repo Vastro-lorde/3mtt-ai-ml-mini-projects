@@ -15,6 +15,11 @@ lxml = "*"
 statsmodels = "*"
 xgboost = "*"
 kagglehub = {extras = ["pandas-datasets"], version = "*"}
+datasets = "*"
+spacy = "*"
+transformers = "*"
+torch = "*"
+accelerate = "*"
 
 [dev-packages]
 ipykernel = "*"
