@@ -20,6 +20,9 @@ spacy = "*"
 transformers = "*"
 torch = "*"
 accelerate = "*"
+keras = "*"
+opencv-python = "*"
+pyspark = "*"
 
 [dev-packages]
 ipykernel = "*"
